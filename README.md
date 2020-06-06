@@ -1,10 +1,5 @@
 # Open-source audio samples for COVID-19 detection
 
-
-<p align="center">
-  <img width="300" src="https://www.detectovid.org/images/logo.png">
-</p>
-
 ## Why?
 The COVID-19 pandemic is extremely detrimental to society and we need to all work together to overcome it. AI needs big data to work and we are unaware of any open source COVID-19 cough datasets anywhere in the world. We want to benefit humanity and have decided to be pioneers in open sourcing the first free COVID-19 cough dataset. This will spur innovation and collaboration from academia and industry all over the world.
 
